@@ -1,0 +1,19 @@
+{
+    "name": "yasmine/contact",
+    "description": "learning to make contact package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yasmine Adel",
+            "email": "yasmine.adel2410@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Yasmine\\Contact\\" : "src/"
+        }
+    }
+}
